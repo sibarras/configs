@@ -1,0 +1,28 @@
+shell:
+  program: nu
+
+font:
+  normal:
+    family: Iosevka Nerd Font Mono
+    style: Regular
+
+  bold:
+    family: Iosevka Nerd Font Mono
+    style: Bold
+
+  italic:
+    family: Iosevka Nerd Font Mono
+    style: Italic
+
+  bold_italic:
+    family: Iosevka Nerd Font Mono
+    style: Bold Italic
+
+mouse:
+  hide_when_typing: true
+
+key_bindings:
+  - { key: V,        mods: Super, action: Paste                }
+  - { key: C,        mods: Super, action: Copy                 }
+  - { key: Q,        mods: Super, action: Quit                 }
+  - { key: W,        mods: Super, action: Quit                 }
